@@ -1,11 +1,12 @@
-# Anaplan-Export-Automation
+# Anaplan-Automation
 This is a Anaplan connector designed for quick and easy integration with Anaplan using Python. 
 It focuses on core functionalities such as uploading files, triggering processes, and exporting data.
 
 # Proceedure
 1. Ensure you have python installed on your pc
 2. Export the desired data directly from Anaplan and ensure to check the option "save export" before final export.
-3. Install anaplanConnector using this command
+3. For Imports, ensure the files have been manually imported into Anaplan before setting up a automation process.
+4. Install anaplanConnector using this command
 ```shell
 pip install anaplanConnector
 ```
